@@ -1,0 +1,4 @@
+.wrapper-cart {
+  background-image: linear-gradient(to right, #D43480, #8028fc);
+  height: calc(140vh - 70px);
+}
